@@ -32,8 +32,8 @@ Code the night away!
 
 Recommended starter packages that suit most projects.
 
-  #Meteor
-
+	#Meteor
+	
 	meteor-platform
 	accounts-base
 	accounts-ui
