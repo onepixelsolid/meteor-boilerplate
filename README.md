@@ -1,10 +1,10 @@
 # Meteor Boilerplate
 
-A folder structure and basic initial files for Meteor projects.
+My basic necessities for Meteor projects. Possibly useful for you too.
 
 ## Installation
 
-Note: The following is used to create a new Meteor app. Don't add this repo to an existing Meteor app.
+Note: Don't add to an existing Meteor app, this will create your initial app and folder structure.
 
 1. Clone this repo to `<yourapp>`
 
