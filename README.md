@@ -4,6 +4,8 @@ A folder structure and basic initial files for Meteor projects.
 
 ## Installation
 
+Note: The following is used to create a new Meteor app. Don't add this repo to an existing Meteor app.
+
 1. Clone this repo to `<yourapp>`
 
   `git clone https://github.com/onepixelsolid/meteor-boilerplate.git <yourapp>`
@@ -12,7 +14,9 @@ A folder structure and basic initial files for Meteor projects.
 
   `cd <yourapp> && rm -rf .git`
 
-3. Start coding!
+3. Run Meteor and start coding!
+
+  `meteor`
 
 ## Usage
 
