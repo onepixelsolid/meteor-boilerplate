@@ -1,0 +1,1551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"line",
+				"inline-block"
+			],
+			[
+				"font",
+				"fontLight"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"feature",
+				"featured-snippet"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"parent",
+				"parentContext"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"face",
+				"faceColor6"
+			],
+			[
+				"getEx",
+				"getExploreRadius"
+			],
+			[
+				"gete",
+				"getExploreObject"
+			],
+			[
+				"getE",
+				"getExploreCategory"
+			],
+			[
+				"getPeple",
+				"getPeopleToAdd"
+			],
+			[
+				"user",
+				"userId	Meteor: this.userId"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"page",
+				"pagePush"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"def",
+				"defaultFontCaps"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margi-",
+				"margin-bottom"
+			],
+			[
+				"de",
+				"defaultFontCapsBold"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"defaultF",
+				"defaultFontBold"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"current",
+				"currentIndex"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"default",
+				"defaultFontRegular"
+			],
+			[
+				"mose",
+				"mouseleave	mouseleave"
+			],
+			[
+				"mou",
+				"mouseenter	mouseenter"
+			],
+			[
+				"border-bott",
+				"border-bottom-width"
+			],
+			[
+				"dis",
+				"displayFontRegular"
+			],
+			[
+				"low",
+				"lowercase"
+			],
+			[
+				"the_",
+				"the_weekday"
+			],
+			[
+				"animate",
+				"animate	animate"
+			],
+			[
+				"project_",
+				"project_order"
+			],
+			[
+				"phase",
+				"phaseProjects"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"sub",
+				"subsection"
+			],
+			[
+				"grou",
+				"group"
+			],
+			[
+				"lorem",
+				"lorem	lorem - Medium paragraph"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"alt",
+				"altFontBold"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"grid",
+				"gridGutter"
+			],
+			[
+				"visi",
+				"visitedIds"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"df",
+				"defaultFontRegular"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"ant",
+				"altFontRegular"
+			],
+			[
+				"media",
+				"mediaGridIsotope"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"panel-",
+				"panel-heading"
+			],
+			[
+				"panel",
+				"panel-levarti"
+			],
+			[
+				"mouse",
+				"mouseleave	mouseleave"
+			],
+			[
+				"nav",
+				"nav	Nav"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"colum",
+				"columnPercent"
+			],
+			[
+				"col",
+				"columnResponsiveWidth"
+			],
+			[
+				"mason",
+				"masonryreset"
+			],
+			[
+				"header",
+				"headerWidth"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"end",
+				"endIndex"
+			],
+			[
+				"start",
+				"startIndex"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"active",
+				"activeEl"
+			],
+			[
+				"non",
+				"nonActive"
+			],
+			[
+				"id",
+				"id=\"sbc"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"erro",
+				"errorImage"
+			],
+			[
+				"hom",
+				"homeImage"
+			],
+			[
+				"weath",
+				"weatherIconUnicode"
+			],
+			[
+				"strt",
+				"strtolower  (function)"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"plugin",
+				"plugin	plugin (selector)"
+			],
+			[
+				"plu",
+				"plugin	plugin (method basic)"
+			],
+			[
+				"toggle",
+				"toggleImgSrc"
+			],
+			[
+				"outer",
+				"outerHeight	.outerHeight"
+			],
+			[
+				"defa",
+				"defaultFontRegular"
+			],
+			[
+				"get",
+				"getCompanyId"
+			],
+			[
+				"set",
+				"setCompanyId"
+			],
+			[
+				"compa",
+				"companyId"
+			],
+			[
+				"send",
+				"sendInviteEmail"
+			],
+			[
+				"option",
+				"optionList"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"company",
+				"company_name"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"artslink_",
+				"artslink_config"
+			],
+			[
+				"backrou",
+				"background-size"
+			],
+			[
+				"display",
+				"display_name"
+			],
+			[
+				"get_the_ti",
+				"get_the_title"
+			],
+			[
+				"is_ta",
+				"is_taxonomy"
+			],
+			[
+				"WP_",
+				"WP_Query"
+			],
+			[
+				"wp_rese",
+				"wp_reset_query"
+			],
+			[
+				"service_",
+				"service_categories"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"url",
+				"site_url"
+			],
+			[
+				"error",
+				"error404"
+			],
+			[
+				"diplay",
+				"display_name"
+			],
+			[
+				"rewiun",
+				"rewind_posts  (function)"
+			],
+			[
+				"is_ar",
+				"is_archive"
+			],
+			[
+				"pl",
+				"plugin	plugin (animation)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"di",
+				"discipline_term"
+			],
+			[
+				"get_title",
+				"get_the_title"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"caseStudyMarker",
+				"caseStudyMarkers"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"syn coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"set jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade (Python)"
+			],
+			[
+				"js2",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"convert",
+				"HTML2Jade: Convert selection"
+			],
+			[
+				"synt jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"syn ja",
+				"Set Syntax: Jade"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt liq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"syn hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"handl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"preview in",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"preview",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"syn co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn ha",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax mar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn text",
+				"Set Syntax: Textile"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Prototype"
+			],
+			[
+				"hmtl",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"shop",
+				"Shopify: Edit asset"
+			],
+			[
+				"shopi",
+				"Shopify: Edit asset"
+			],
+			[
+				"asset",
+				"Shopify: Edit asset"
+			],
+			[
+				"shopify",
+				"Shopify: Choose store"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn le",
+				"Set Syntax: LESS"
+			],
+			[
+				"con",
+				"Convert Case: Lower Case"
+			],
+			[
+				"conc",
+				"Convert Case: Lower Case"
+			],
+			[
+				"synx p",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax exp",
+				"Set Syntax: ExpressionEngine"
+			],
+			[
+				"syn less",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntax less",
+				"Set Syntax: LESS"
+			],
+			[
+				"synx less",
+				"Set Syntax: LESS"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"conver",
+				"Convert Case: Lower Case"
+			],
+			[
+				"syntax haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"syntax expre",
+				"Set Syntax: ExpressionEngine"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"syntax p",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntax HAML",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"syntax yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"syntax rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntax text",
+				"Set Syntax: Textile"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"syntax c",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 718.0
+	},
+	"console":
+	{
+		"height": 211.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/stylesheets/foo.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/lib/environment.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/app.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/views/main.jade",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/views/shared/foo.jade",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/views/shared/foo.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/views/foo/index.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/views/foo/index.jade",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/views/layouts/not_found.jade",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/views/layouts/main.jade",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/views/layouts/main.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/lib/helpers.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/both/router/foo.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/both/config.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/both/helpers.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/both/router/config.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/both/router/filters.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/both/collections/foo.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/README.md",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/lib/functions.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/stylesheets/styles.less",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/client/stylesheets/main.less",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/server/publications/feeds.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/repos/meteor-boilerplate/server/fixtures.coffee",
+		"/Users/1pxsolid/Dropbox/Public/* Desktop Backup/2015 April/Isabell/five years/index.html",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/view_regular.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/featured-post.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/posts-grid.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/nav.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/nav.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/view_feature.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/author/jquery.helloSm.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/hero_feature.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/nav.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/helpers.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/hero.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/preview_feature.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/preview_regular.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/grid.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/layouts/main.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/variables.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/main.html",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/view_regular.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/footer.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/helpers.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/footer.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/footer.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/menu.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/hero.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/author/jquery.faceHero.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/router/filters.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/about.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/pages/about.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/style.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/README.md",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/grid.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/router/routes.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/server/publications/posts.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/grid.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/author/jquery.featuredHero.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/hero_feature.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/author/jquery.pagePosts.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/collections/images.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/main.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/menu.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/layouts/main.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/about.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/view.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/layouts/login.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/layouts/login.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/environment.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/settings-development.json",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/hellosm.sublime-workspace",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/stylesheets/login.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/server/lib/environment.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/collections/posts.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/settings-production.json",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/settings.json",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/view.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/app.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/author/jquery.megaMenu.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/vendor/jquery.easing.1.3.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/admin.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/hellosm.sublime-project",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/vendor/jquery.parallax.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/index.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/.meteor/packages",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/scroll_ftw.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/view_feature.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/hero.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/shared_footer.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/home_hero.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/shared/home_hero.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/gri.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/posts/index.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/lib/vendor/parallax.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/hellosm.html",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/client/views/layouts/loading.jade",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/server/publications/post_images.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/router/config.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/collections/heros.coffee",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/app/lib/router/filter.coffee",
+		"/Users/1pxsolid/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/inc-grid-image.php",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/js/author/jquery.helloSm.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/index.php",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/less/posts-grid.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/less/hero.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/footer.php",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/less/footer.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/inc-grid-featured.php",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/post-regular.php",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/header.php",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/functions.php",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/js/author/jquery.pagePosts.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/less/nav.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/less/grid.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/js/author/jquery.featuredPost.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/js/main.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/less/main.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/js/author/jquery.faceHero.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/inc-view-image.php",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/js/author/jquery.megaMenu.js",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/README.md",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/less/variables.less",
+		"/Users/1pxsolid/Dropbox/Sites/hello.sm/wp/wp-content/themes/hellosm/assets/less/face.less",
+		"/Users/1pxsolid/Dropbox/Sites/boomandleisure.com/app/client/stylesheets/modal_account_flow.import.less",
+		"/Users/1pxsolid/Dropbox/Sites/boomandleisure.com/app/client/stylesheets/account_flow_modal.import.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"shared_foo",
+			".about-face",
+			"Session.set('isInd",
+			"Meta.set",
+			"console.log",
+			".grid-arrow",
+			"max-width: 500px;",
+			".image",
+			"adminConfig",
+			".grid-arrow",
+			"highlight1",
+			"highlight2",
+			"pageClass",
+			".dot",
+			"config",
+			"hero-outer",
+			"featured-title",
+			"translate",
+			".featured-post",
+			"faceHero",
+			"#top",
+			"faceColor4",
+			".arrow-up",
+			".post-view",
+			".description",
+			"50% 100%",
+			"transform-origin: 50% 100%;",
+			".top",
+			"#top",
+			".grid-arrow",
+			"featured",
+			"push",
+			"prev",
+			"push",
+			"isAbout",
+			"pageClass",
+			"Session.set('isAbout'",
+			"isAbout",
+			"pageClass",
+			"grey2",
+			"@grey3",
+			"6f6f6f",
+			"grey1",
+			"@grey1",
+			"translate",
+			"featured-post-wrap",
+			"featureTitle",
+			"heroDisplay",
+			".posts-grid",
+			"figcaption",
+			"Meteor._wrapAsync",
+			"highlight4",
+			"highlight3",
+			"highlight4",
+			"handleScroll",
+			"70px",
+			"52px",
+			"72px",
+			"left: 355px;\n    top: 425px;",
+			"highlight2",
+			"highlight3",
+			"currentRout",
+			"#home",
+			".events",
+			"routeHome",
+			"AboutController",
+			"isAbout",
+			"console.log",
+			"currentPostType",
+			"respond",
+			"posts-grid",
+			"hero",
+			"scroll",
+			"parallax",
+			"heroDisplay",
+			"sharedFooterRender",
+			"shared_footer",
+			"posts_view_regular",
+			"posts_view_feature",
+			".dot",
+			"54px",
+			"70px",
+			"140px",
+			"awsThumbFolder",
+			"84px",
+			"104px",
+			"38px",
+			"10px",
+			"111px",
+			"59px",
+			"150px",
+			"62px",
+			" 8px",
+			"8px",
+			"http://static.hello.sm/",
+			"{s3Path}",
+			"fonts",
+			"awsCloudFrontUrl",
+			"awsOriginalFolder",
+			"awsCloudFrontUrl",
+			"awsBucketUrl",
+			"path = 'http://static.hello.sm/stage",
+			"http://static.hello.sm/",
+			"'r16dApZxAV6lz3rgfH8/wx64LJ7YoZbW5Tr6EbGX'",
+			"'AKIAICWTJBG4Q6JFFCLQ'",
+			"href=\"/",
+			".rendered",
+			".menu-body",
+			"console.log('SESSION')",
+			"SESSION",
+			"amazon",
+			"https://s3.amazonaws.com/hello-sm",
+			"amazon",
+			"amazong",
+			"Title",
+			"getTitle",
+			"client",
+			"700px",
+			"blink",
+			".dot",
+			"posts_view_feature",
+			"w",
+			"menu-close",
+			"featured-body",
+			".featured-body",
+			"10px",
+			".go",
+			"postsViewRegularRender"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/*-------------------------------------------------------------------------------------------------------",
+			"sbcBootstrap.path",
+			"\"body\":",
+			"\"type\":",
+			"\"grid\":",
+			"\"content\":",
+			"\"thumbs\"",
+			"\"description\"",
+			"\"year\"",
+			"\"filter\"",
+			"\"category\"",
+			"\"title\"",
+			"\"code\"",
+			"\"",
+			"body ",
+			"body      : ",
+			"body    : ",
+			"width     : ",
+			"body      : ",
+			"body      :",
+			"body",
+			"'",
+			"'/assets/img/sbc-fbook-office.jpg', 2048, 1365);",
+			"sbc-fbook-office.jpg",
+			"museumofbrisbane.dev:8888/wp",
+			"everyrooftop.org.au",
+			"jbs",
+			"http://onepixelsolid.dev:8888",
+			"http://onepixelsolid.dev:8888/wp-content/uploads/",
+			"@grey2",
+			"@grey3",
+			"",
+			"tile-timeline-page-",
+			"trentbarton.dev:8888",
+			"\"/procedure.php\"",
+			"/",
+			"m1",
+			"currentItem",
+			"/assets/img/common/tmp.png",
+			"/assets/img/projects/tmp.png",
+			"\">",
+			"\" />",
+			"=\"",
+			"zh-nav",
+			"zhc-nav",
+			"-"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 438.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fic",
+				"server/fixtures.coffee"
+			],
+			[
+				"router",
+				"client/lib/router.coffee"
+			],
+			[
+				"rout",
+				"client/lib/router.coffee"
+			],
+			[
+				"route",
+				"client/lib/helpers/router.coffee"
+			],
+			[
+				"todo",
+				"TODO.md"
+			],
+			[
+				"styles",
+				"client/stylesheets/styles.lessimport"
+			],
+			[
+				"vari",
+				"client/stylesheets/variables.lessimport"
+			],
+			[
+				"styl",
+				"assets/less/style.less"
+			],
+			[
+				"",
+				"assets/less/variables.less"
+			],
+			[
+				"functions",
+				"wp-content/themes/artslinkqld/functions.php"
+			],
+			[
+				"mime",
+				"admin/expressionengine/config/mimes.php"
+			],
+			[
+				"mimes",
+				"xevujiuq/expressionengine/config/mimes.php"
+			],
+			[
+				"style.less",
+				"wp-content/themes/everyrooftop/css/less/style.less"
+			],
+			[
+				"developer",
+				"config/environments/development.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"index.",
+				"index.php"
+			],
+			[
+				"variables",
+				"assets/css/variables.less"
+			],
+			[
+				"hidee",
+				"admin/expressionengine/third_party/hideee/acc.hideee.php"
+			],
+			[
+				"config",
+				"admin/config.php"
+			],
+			[
+				"aggre",
+				"calendar-assets/jquery.griffith.CalendarAggregator.js"
+			],
+			[
+				"core.mob",
+				"__data/assets/js_file/0011/326378/core.mobile.js"
+			],
+			[
+				"core.m",
+				"__data/assets/js_file/0011/326378/core.mobile.js"
+			],
+			[
+				"refre",
+				"lib/tasks/db_dev_refresh.rake"
+			],
+			[
+				"posts",
+				"db/seeds/development/posts.yml"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"plug",
+				"assets/js/plugins.js"
+			],
+			[
+				"global",
+				"__data/assets/js_file/0005/333725/core.global.js"
+			],
+			[
+				"desktop",
+				"__data/assets/js_file/0003/326406/core.desktop.js"
+			],
+			[
+				"calendaraggregator",
+				"calendar-assets/jquery.griffith.CalendarAggregator.js"
+			],
+			[
+				"ee.",
+				"__data/assets/js_file/0009/340938/ees.popup-ORIGINAL.js"
+			],
+			[
+				"memo",
+				"app/assets/stylesheets/less-keepr/memos.less"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"evise.rb",
+				"config/initializers/devise.rb"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			],
+			[
+				"dev",
+				"DEVLOG.mdown"
+			],
+			[
+				"memos",
+				"app/assets/javascripts/views/memos/memos_index.js.coffee"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"login",
+				"app/assets/templates/users/login.hamlc"
+			],
+			[
+				"omni",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				"session",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"mem",
+				"app/assets/javascripts/collections/memos.js.coffee"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"sesson",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"var",
+				"app/assets/stylesheets/less/variables.less"
+			],
+			[
+				"forms",
+				"app/assets/stylesheets/less/memo-forms.less"
+			],
+			[
+				"logo",
+				"app/assets/stylesheets/less/logo.less"
+			],
+			[
+				"geml",
+				"Gemfile"
+			],
+			[
+				"modal",
+				"app/assets/stylesheets/less/modal.less"
+			],
+			[
+				"application",
+				"config/application.rb"
+			],
+			[
+				"ss-",
+				"app/assets/stylesheets/ss-standard.css"
+			],
+			[
+				"feed",
+				"app/assets/stylesheets/feed.css.scss"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"en",
+				"config/locales/en.yml"
+			],
+			[
+				"live",
+				"app/views/feeds/live.html.haml"
+			],
+			[
+				"form",
+				"app/views/feeds/_form.html.haml"
+			],
+			[
+				"_form",
+				"app/views/feeds/_form.html.haml"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/styles.css.scss"
+			],
+			[
+				"feed_c",
+				"app/controllers/feeds_controller.rb"
+			],
+			[
+				"migrat",
+				"db/migrate/20120629122914_create_feed_twitter_settings.rb"
+			],
+			[
+				"twitter",
+				"config/twitter.yml"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"post",
+				"app/models/post.rb"
+			],
+			[
+				".js",
+				"app/assets/javascripts/models/memo.js.coffee"
+			],
+			[
+				".less",
+				"app/assets/stylesheets/less/memos.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 452.0,
+	"status_bar_visible": true
+}

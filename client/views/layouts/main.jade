@@ -1,0 +1,6 @@
+template(name='layout_main')
+  h1 Main layout
+  hr
+  +Template.dynamic(template=getFooBar)
+  hr
+  +yield
