@@ -14,22 +14,19 @@ Note: The following is used to create a new Meteor app. Don't add this repo to a
 
   `cd <yourapp> && rm -rf .git`
 
-3. Run Meteor and start coding!
+3. Run Meteor
 
   `meteor`
 
 ## Usage
 
-Replace the contents of `README.md` with your project's:
+* Replace the contents of `README.md` with your project's.
+* Replace all `foo` files and code.
+* Only atmosphere packages in use are:
+  * `iron:router` for routing
+  * `aldeed:simple-schema` and `aldeed:collection2` for collection schemas/validation
 
-* Name
-* Description
-* Installation instructions
-* Usage instructions
-* Support instructions
-* Contributing instructions
-
-Feel free to remove any sections that aren't applicable to your project.
+Code the night away!
 
 ## Packages
 
