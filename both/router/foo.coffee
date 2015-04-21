@@ -14,7 +14,6 @@
     @next()
 
   subscriptions: ->
-    console.log 'here'
     Meteor.subscribe 'foo'
 )
 
