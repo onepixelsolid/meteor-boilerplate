@@ -22,7 +22,7 @@ Note: Don't add to an existing Meteor app, this will create your initial app and
 
 * Replace the contents of `README.md` with your project's.
 * Replace all `foo` files and code.
-* Only atmosphere packages in use are:
+* Atmosphere packages currently used in starter code are (feel free to remove):
   * `iron:router` for routing
   * `aldeed:simple-schema` and `aldeed:collection2` for collection schemas/validation
 
