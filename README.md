@@ -4,13 +4,15 @@ A folder structure and basic initial files for Meteor projects.
 
 ## Installation
 
-Download to your project directory, add `README.md`, and commit:
+1. Clone this repo to `<yourapp>`
 
-```sh
-curl -LO http://git.io/Xy0Chg
-git add README.md
-git commit -m "Use README Boilerplate"
-```
+  `git clone https://github.com/onepixelsolid/meteor-boilerplate.git <yourapp>`
+
+2. Remove `.git`
+
+  `cd <yourapp> && rm -rf .git`
+
+3. Start coding!
 
 ## Usage
 
@@ -29,7 +31,7 @@ Feel free to remove any sections that aren't applicable to your project.
 
 Recommended starter packages that suit most projects.
 
-    #Meteor
+  #Meteor
 
 	meteor-platform
 	accounts-base
@@ -66,11 +68,3 @@ Please [open an issue](https://github.com/onepixelsolid/meteor-boilerplate/issue
 ## Contributing
 
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/onepixelsolid/meteor-boilerplate/compare/).
-
-## Changelog
-
-### 21.04.15
-
-* One
-* Two
-* Three
